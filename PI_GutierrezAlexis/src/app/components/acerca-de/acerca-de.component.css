@@ -1,0 +1,12 @@
+img{
+    width: 600px;
+}
+div{
+    background-color: #a1b5cb;
+    text-align: center;
+}
+#nombre{
+    font-weight: bold;
+    margin-top: 40%;
+    margin-left: 10px;
+}
