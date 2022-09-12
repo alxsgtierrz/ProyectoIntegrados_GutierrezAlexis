@@ -19,16 +19,26 @@ div{
         border-radius: 20%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
-        top: 600px;
+        top: 550px;
     }
 }
 @media (max-width: 576px){
     #foto_perfil{
         position: absolute;
-        width: 45%;
+        width: 35%;
         border-radius: 20%;
         box-shadow: 3px 3px 3px grey;
-        left: 25%;
-        top: 600px;
+        left: 30%;
+        top: 400px;
     }
+@media (max-width: 575px){
+    #foto_perfil{
+        position: absolute;
+        width: 35%;
+        border-radius: 20%;
+        box-shadow: 3px 3px 3px grey;
+        left: 30%;
+        top: 500px;
+    }
+}
 }
